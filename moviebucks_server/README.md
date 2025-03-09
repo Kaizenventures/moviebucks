@@ -13,3 +13,7 @@ Then you can start the Serverpod server.
 When you are finished, you can shut down Serverpod with `Ctrl-C`, then stop Postgres and Redis.
 
     docker compose stop
+
+
+Should act as proxy for 
+- OMDB API KEY - c7ac66b9
