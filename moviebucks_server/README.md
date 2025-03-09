@@ -14,6 +14,3 @@ When you are finished, you can shut down Serverpod with `Ctrl-C`, then stop Post
 
     docker compose stop
 
-
-Should act as proxy for 
-- OMDB API KEY - c7ac66b9
